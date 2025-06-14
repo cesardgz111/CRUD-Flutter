@@ -13,7 +13,6 @@ Este es un proyecto de ejemplo para crear una aplicación Flutter con operacione
 - UI sencilla y fácil de entender
 
 ---
-
 ## 🛠️ Tecnologías Utilizadas
 
 - Flutter
@@ -25,4 +24,4 @@ Este es un proyecto de ejemplo para crear una aplicación Flutter con operacione
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/flutter_crud_basico.git
+   git clone https://github.com/cesardgz111/CRUD-Flutter.git
